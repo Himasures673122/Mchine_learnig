@@ -1,0 +1,3 @@
+The goal with this dataset is typically to predict whether a passenger survived the sinking of the Titanic based on the other features provided. It's often used for binary classification tasks in machine learning.
+The Data set requires preprocessing steps like handling missing values, converting categorical variables into numerical format (e.g., one-hot encoding), and feature scaling before being used for training machine learning models. Additionally, feature engineering can be performed to create new features or extract useful information from existing ones to improve model performance.
+Finally got 80% accuracy on the Titanic dataset using logistic regression
